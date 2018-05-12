@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6632
     wikipedia: http://en.wikipedia.org/wiki/Thomas_d'Urfey
 description: Augustan Reprint Society, publication number 12
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16335#Essays-on-the-Stage--13-Preface-to-the-Campaigners--1689--and-Preface-to-the-Translation-of-B_
 gutenberg_issued: '2005-07-20'
 gutenberg_type: Text
 identifiers:
