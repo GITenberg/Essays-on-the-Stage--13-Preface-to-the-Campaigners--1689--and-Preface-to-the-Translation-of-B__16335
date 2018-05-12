@@ -1,0 +1,44 @@
+_repo: Essays-on-the-Stage--13-Preface-to-the-Campaigners--1689--and-Preface-to-the-Translation-of-B__16335
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Krutch, Joseph Wood
+    birthdate: 1893
+    deathdate: 1970
+    gutenberg_agent_id: '6634'
+    url: http://www.gutenberg.org/2009/agents/6634
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: D'Urfey, Thomas
+    aliases:
+    - Durfey, Mr. (Thomas)
+    - John, Gabriel
+    - D'Urphy, Thomas
+    - Durffey, Thomas
+    - D'Urfrey, Thomas
+    birthdate: 1653
+    deathdate: 1723
+    gutenberg_agent_id: '6632'
+    url: http://www.gutenberg.org/2009/agents/6632
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_d'Urfey
+description: Augustan Reprint Society, publication number 12
+gutenberg_issued: '2005-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16335'
+  lccn: '50002264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Moral and ethical aspects -- Early works to 1800'
+- !lcc 'PN'
+- !lcsh 'Collier, Jeremy, 1650-1726. Short view of the immorality and profaneness
+  of the English stage'
+title: "Essays on the Stage\r\nPreface to the Campaigners (1689) and Preface to the\
+  \ Translation of Bossuet's Maxims and Reflections on Plays (1699)"
+url: http://www.gutenberg.org/ebooks/16335
